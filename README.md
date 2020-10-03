@@ -1,2 +1,2 @@
 # Software-technology
-Hệ thống quản lý bán hàng quán Cafe 
+Ứng dụng quản lý tiệm Cafe 
